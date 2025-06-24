@@ -1,0 +1,1 @@
+Given a task of finding the best plain to take on a battle i was told create a model for that can predict best two plains in randomly and find a probablity of which plain will have the best chance based on how good a plain in classified and its features 
